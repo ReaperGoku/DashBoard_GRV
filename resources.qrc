@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>images/icon/icon_close.png</file>
+    <file>images/icon/icon_maximize.png</file>
+    <file>images/icon/cil-calendar-check.png</file>
+    <file>images/icon/icon_minimize.png</file>
+  </qresource>
+</RCC>
